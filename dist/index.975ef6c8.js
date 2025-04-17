@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"farZc":[function(require,module,exports) {
+})({"cUXhu":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -41196,6 +41196,6 @@ const appStore = (0, _toolkit.configureStore)({
 });
 exports.default = appStore;
 
-},{"@reduxjs/toolkit":"fuua8","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./cartSlice":"5RXlr"}]},["farZc","1xC6H","8lqZg"], "8lqZg", "parcelRequiref8d7")
+},{"@reduxjs/toolkit":"fuua8","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./cartSlice":"5RXlr"}]},["cUXhu","1xC6H","8lqZg"], "8lqZg", "parcelRequiref8d7")
 
 //# sourceMappingURL=index.975ef6c8.js.map
