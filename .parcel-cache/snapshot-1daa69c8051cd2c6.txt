@@ -1,4 +1,4 @@
-11848
+11850
 101C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\remixicon\icons\Document\file-ppt-fill.svg133893806839081829 0
 95C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\remixicon\icons\Others\tree-line.svg133893806853491754 0
 106C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\wrap-ansi\node_modules\ansi-styles\package.json133893806872027683 0
@@ -20,7 +20,7 @@
 107C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\remixicon\icons\Development\parentheses-line.svg133893806835955825 0
 67C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\src\utils\appStore.js133893806874439898 0
 94C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\@parcel\core\test\fixtures\main-mjs133893806723234017 1
-58C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\package.json133893821829231966 0
+58C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\package.json133893825584321125 0
 92C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\remixicon\icons\Logos\vk-line.svg133893806847402770 0
 102C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\remixicon\icons\System\shield-user-fill.svg133893806856584637 0
 101C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\tailwindcss\src\processTailwindFeatures.js133893806869159680 0
@@ -30,7 +30,7 @@
 73C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\domelementtype133893806808881219 1
 108C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133893806817744492 0
 109C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\@parcel\reporter-dev-server\src\templates\404.html133893806737939672 0
-50C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist133893821924902778 1
+50C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist133893825649364802 1
 113C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\css-select\node_modules\entities\lib\esm\decode.js.map133893806800797611 0
 95C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\remixicon\icons\Others\door-line.svg133893806852584095 0
 93C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\node_modules\css-tree\lib\syntax\atrule\nest.js133893806803154608 0
@@ -11841,9 +11841,11 @@
 73C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist\index.3a01df49.css.map133893807428561588 0
 68C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist\index.975ef6c8.js133893807429478388 0
 72C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist\index.975ef6c8.js.map133893807429598716 0
+68C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist\index.be6e2d01.js133893825649054603 0
+72C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist\index.be6e2d01.js.map133893825649344796 0
 73C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist\index.c41b5a0e.css.map133893806712821869 0
 69C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist\index.d8e1a447.css133893821924682799 0
 68C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist\index.e92dab5b.js133893821924692837 0
 72C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist\index.e92dab5b.js.map133893821924892881 0
-61C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist\index.html133893821924682799 0
+61C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist\index.html133893825649034608 0
 74C:\Users\kumar\OneDrive\Desktop\swiggy\foodly\dist\remixicon.beaf3c63.woff133893806713123203 0
